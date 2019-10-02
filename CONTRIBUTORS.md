@@ -334,3 +334,7 @@
 - Bio: Scienctist, developer
 - GitHub: [andreas-ra](https://github.com/andreas-ra)
 
+#### Name: [William](https://github.com/andreas-ra)
+- Place: quebec, Canada
+- Bio: studen, developer
+- GitHub: [fref2](https://github.com/fref2)
